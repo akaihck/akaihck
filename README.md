@@ -1,7 +1,7 @@
 <div background-color="black">
 <h1 align="center">Hi 👋, I'm Nipun Akash</h1>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome to my Account..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  (https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4)
 </p>
 <h3 align="center">I'm Nipun from Sri Lanka, and currently live in England. I am Software Developer and a passionate Full-Stack Developer with a knack for building dynamic and responsive web applications. When I'm not coding, you might find me exploring the latest in Content Creating, Graphic Design, or Traveling. Feel free to check out my repositories and connect with me if you want to collaborate or chat about tech!</h3>
 
