@@ -1,11 +1,12 @@
+ <img src = "https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4"/>
 <div background-color="black">
 <h1 align="center">Hi 👋, I'm Nipun Akash</h1>
-  <img src = "https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4"/>
+ 
 <h3 align="center">I'm Nipun from Sri Lanka, and currently live in England. I am Software Developer and a passionate Full-Stack Developer with a knack for building dynamic and responsive web applications. When I'm not coding, you might find me exploring the latest in Content Creating, Graphic Design, or Traveling. Feel free to check out my repositories and connect with me if you want to collaborate or chat about tech!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akaihck&label=Profile%20views&color=0e75b6&style=flat" alt="akaihck" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akaihck&label=Profile%20views&color=0e75b6&style=flat" alt="akaihck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaihck" alt="akaihck" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaihck" alt="akaihck" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -22,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akaihck"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akaihck" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaihck&show_icons=true&locale=en&layout=compact" alt="akaihck" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaihck&show_icons=true&locale=en&layout=compact" alt="akaihck" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaihck&show_icons=true&locale=en" alt="akaihck" /></p>
 
