@@ -1,8 +1,6 @@
 <div background-color="black">
 <h1 align="center">Hi 👋, I'm Nipun Akash</h1>
-  <p align="center">
-  (https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4)
-</p>
+  <img src = "https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4"/>
 <h3 align="center">I'm Nipun from Sri Lanka, and currently live in England. I am Software Developer and a passionate Full-Stack Developer with a knack for building dynamic and responsive web applications. When I'm not coding, you might find me exploring the latest in Content Creating, Graphic Design, or Traveling. Feel free to check out my repositories and connect with me if you want to collaborate or chat about tech!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaihck&label=Profile%20views&color=0e75b6&style=flat" alt="akaihck" /> </p>
