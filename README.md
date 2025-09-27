@@ -2,13 +2,13 @@
 <div background-color="black">
 <h1 align="center">Hi 👋, I'm Nipun Akash</h1>
  
-<h3 align="center">I'm Nipun from Sri Lanka, and currently live in England. I am Software Developer and a passionate Full-Stack Developer with a knack for building dynamic and responsive web applications. When I'm not coding, you might find me exploring the latest in Content Creating, Graphic Design, or Traveling. Feel free to check out my repositories and connect with me if you want to collaborate or chat about tech!</h3>
+<h3 align="center">I'm Nipun Akash CEO of AKAI-CODEX. from Sri Lanka, and currently live in England. I am Software engineer and a passionate Full-Stack Developer with a knack for building dynamic,IOT technology,Plugin development  and responsive web applications. When I'm not coding, you might find me exploring the latest in Content Creating, Graphic Design, or Traveling. Feel free to check out my repositories and connect with me if you want to collaborate or chat about tech!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akaihck&label=Profile%20views&color=0e75b6&style=flat" alt="akaihck" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaihck" alt="akaihck" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
